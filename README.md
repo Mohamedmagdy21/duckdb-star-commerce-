@@ -1,4 +1,4 @@
-# ITI Analytical SQL Project (E-Commerce Star Schema)
+# Analytical SQL Project (E-Commerce Star Schema)
 
 This repository contains an end-to-end analytical SQL project built on a **star-schema data warehouse** for an e-commerce domain. It uses **DuckDB + SQL window functions** to compute KPIs, time-based analytics, ranking/contribution metrics, customer behavior analytics, and advanced volatility/seasonality features. It also includes a recommendation-system notebook.
 
